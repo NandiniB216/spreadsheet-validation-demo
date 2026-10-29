@@ -4,7 +4,6 @@ Checks a supplier-onboarding spreadsheet row by row **before** anyone keys it in
 
 Synthetic data only. No network calls. The input file is never modified.
 
-> **Before publishing — delete this box once true.** This repository was drafted with AI assistance (Claude). Keep the "My contribution" section only after you have read every file, run the tests yourself and can explain each rule in an interview.
 
 ---
 
@@ -113,11 +112,7 @@ tests/
 
 ## My contribution
 
-**[CONFIRM BEFORE PUBLISHING — keep only what is true]**
-
-- Defined the problem and the validation requirements from experience with spreadsheet-to-portal data entry.
-- Built the project with AI assistance (Claude), then reviewed the rules, ran the test suite and checked the reports against the expected outcomes.
-- [FILL IN anything you changed or added yourself]
+I wrote the brief for this project from a spreadsheet-to-portal data problem I met during my internship, and specified what it had to show: validation rules, rejected-row reporting, tests and safe execution. The code was generated with AI assistance (Claude), as the co-author line in the commit history shows. I am reviewing it rule by rule; changes I make will appear as my own commits.
 
 ## Tools
 
