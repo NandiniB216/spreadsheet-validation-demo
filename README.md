@@ -23,6 +23,8 @@ This demo uses a **validate-first** approach: identify issues before downstream 
 
 ## How it works
 
+See [the validation flow diagram](docs/validation-flow.md) for the processing sequence and row decision rules.
+
 1. Read the input workbook and locate its header row.
 2. Normalise values only when it is safe to do so.
 3. Run field-level validation rules.
